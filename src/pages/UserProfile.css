@@ -1,0 +1,114 @@
+  .navbar .container-fluid .navbar-brand img {
+    height: 50px;
+    width: 50px;
+  }
+
+  body {
+    background-color: #f5f7fa;
+  }
+
+  .studentprofile{
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+  }
+  
+  .aqua-gradient {
+    background: linear-gradient(40deg, #2096ff, #05ffa3) !important;
+  }
+  
+  .testimonial-card .avatar {
+    width: 120px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 5px solid #fff;
+    border-radius: 50%;
+  }
+
+  .required-star {
+    color: red;
+  }
+
+  .userAction {
+    color: #333; 
+    font-weight: bold; 
+  }
+  
+  .userAction:hover {
+    color: #5e5e5e; 
+    text-decoration: none; 
+  }
+  
+  legend {
+    display: inline-block;
+    border: 1.5px solid rgb(179, 224, 210);
+    padding: 8px;
+    margin: 5px 0px;
+    background-color: #eafcf7;
+}
+
+  .student {
+    border: 3px solid #03bdd6;
+    padding: 5px;
+    background-color: #fcfffd;
+  }
+
+  .btn-primary {
+    background-color: #03bdd6;
+  }
+
+  .col-12 {
+    margin: 15px 0px;
+  }
+
+  .navbar {
+    background-color: #009aaf;
+  }
+
+  .container-profilePic {
+    margin: 0px 0px 40px 0px;
+  }
+
+  .navbar-text {
+    text-decoration: none;
+  }
+
+  .me-2 {
+    height: 18px;
+    margin-bottom: 2px;
+  }
+
+  .notification-btn {
+    height: 50px;
+    color: white;
+  }
+
+  .announcement {
+    padding: 0;
+    margin: 0;
+  }
+
+  .registration{
+    color: #009aaf;
+    border: 2px solid #009aaf;
+    border-radius: 2px;
+    margin: 2px 0px;
+  }
+
+  .profileli{
+    padding-left: 5px
+  }
+
+  .profilediv{
+    width: 27px; height: 27px
+  }
+
+  .custom{
+    color: #009aaf;
+  }

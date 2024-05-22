@@ -1,0 +1,39 @@
+@import url(//fonts.googleapis.com/css?family=Lato:300:400);
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+  
+/* table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #02c9d7;
+  text-align: left;
+  padding: 5px;
+}
+th {
+  background-color: #f0eded;
+} */
+
+.filter_users {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #555;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+  margin-bottom: 25px;
+}
+
+/* Hover effect for the search filter input */
+.filter_users:hover {
+  border-color: #1ae2aa;
+}
+
+/* Focus effect for the search filter input */
+.filter_users:focus {
+  border-color: #1be7bb;
+  outline: none;
+}
